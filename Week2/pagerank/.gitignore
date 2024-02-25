@@ -1,0 +1,10 @@
+### python template
+### pycharm template
+.idea
+__pycache__
+venv
+
+corpus0
+corpus1
+corpus2
+corpustest

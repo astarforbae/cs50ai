@@ -1,0 +1,6 @@
+### python template
+### pycharm template
+.idea
+__pycache__
+venv
+data
